@@ -1,2 +1,4 @@
 0_datasets/*
 !0_datasets/.gitkeep
+
+2_integration/IntecrationPythonCode/Settings.py
